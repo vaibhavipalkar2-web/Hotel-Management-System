@@ -1,0 +1,12 @@
+{
+    "login_bg": "#0F172A",
+    "login_text": "#FFFFFF",
+    "header_bg": "#0F172A",
+    "header_label_bg": "#0F172A",
+    "accent_color": "#F59E0B",
+    "button_primary": "#2563EB",
+    "button_success": "#10B981",
+    "bg_light": "#F8FAFC",
+    "bg_white": "#FFFFFF",
+    "text_dark": "#1E293B"
+}
